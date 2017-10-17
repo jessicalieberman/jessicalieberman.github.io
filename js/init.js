@@ -137,6 +137,7 @@
 /*	contact form
 ------------------------------------------------------*/
 
+      /*
    $('form#contactForm button.submit').click(function() {
 
       $('#image-loader').fadeIn();
@@ -175,8 +176,7 @@
       });
       return false;
    });
-
-
+   */
 });
 
 
